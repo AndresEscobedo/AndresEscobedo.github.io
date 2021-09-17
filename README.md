@@ -1,2 +1,2 @@
 # AndresEscobedo.github.io
-Portafolio profesional de Ingeniero en TI y Mecatrónica
+Portafolio profesional de un Ingeniero en TI y Mecatrónica
